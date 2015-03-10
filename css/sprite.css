@@ -1,0 +1,1350 @@
+.abort {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px 0px;
+}
+
+.about {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px 0px;
+}
+
+.accounting {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px 0px;
+}
+
+.acrobat {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px 0px;
+}
+
+.add {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px 0px;
+}
+
+.address_book {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px 0px;
+}
+
+.alarm_clock {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px 0px;
+}
+
+.alarm {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px 0px;
+}
+
+.alert {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px 0px;
+}
+
+.anchor {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px 0px;
+}
+
+.application-exit {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px 0px;
+}
+
+.application {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px 0px;
+}
+
+.apply {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px 0px;
+}
+
+.arrow-down-2 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px 0px;
+}
+
+.arrow-down-3 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px 0px;
+}
+
+.arrow-down {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -18px;
+}
+
+.arrow-left-2 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -18px;
+}
+
+.arrow-left-3 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -18px;
+}
+
+.arrow-left {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -18px;
+}
+
+.arrow-right-2 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -18px;
+}
+
+.arrow-right-3 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -18px;
+}
+
+.arrow-right {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -18px;
+}
+
+.arrow-undo {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -18px;
+}
+
+.arrow-up-2 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -18px;
+}
+
+.arrow-up-3 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -18px;
+}
+
+.arrow_down_4 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -18px;
+}
+
+.arrow_left4 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -18px;
+}
+
+.arrow_left_4 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -18px;
+}
+
+.arrow_right_4 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -18px;
+}
+
+.arrow_up_4 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -18px;
+}
+
+.back {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -36px;
+}
+
+.bad_mark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -36px;
+}
+
+.bell_silver {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -36px;
+}
+
+.black_bookmark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -36px;
+}
+
+.black_pin {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -36px;
+}
+
+.black_tag {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -36px;
+}
+
+.blog {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -36px;
+}
+
+.blue_bookmark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -36px;
+}
+
+.blue_key {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -36px;
+}
+
+.blue_pin {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -36px;
+}
+
+.blue_tag {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -36px;
+}
+
+.bookmark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -36px;
+}
+
+.boss {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -36px;
+}
+
+.bottom {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -36px;
+}
+
+.briefcase {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -36px;
+}
+
+.brush {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -54px;
+}
+
+.bubble {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -54px;
+}
+
+.buy {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -54px;
+}
+
+.calculator {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -54px;
+}
+
+.calendar {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -54px;
+}
+
+.calendar_select_week {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -54px;
+}
+
+.cancel {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -54px;
+}
+
+.car_key {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -54px;
+}
+
+.cd {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -54px;
+}
+
+.clipboard {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -54px;
+}
+
+.clock {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -54px;
+}
+
+.comment {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -54px;
+}
+
+.company {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -54px;
+}
+
+.component {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -54px;
+}
+
+.computer {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -54px;
+}
+
+.copy {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -72px;
+}
+
+.create {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -72px;
+}
+
+.cut {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -72px;
+}
+
+.danger {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -72px;
+}
+
+.database {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -72px;
+}
+
+.database_yellow_start {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -72px;
+}
+
+.delete {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -72px;
+}
+
+.delivery {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -72px;
+}
+
+.diagram {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -72px;
+}
+
+.dial {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -72px;
+}
+
+.disaster {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -72px;
+}
+
+.display_16x16 {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -72px;
+}
+
+.down {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -72px;
+}
+
+.download {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -72px;
+}
+
+.downloads_folder {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -72px;
+}
+
+.e-mail {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -90px;
+}
+
+.earth {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -90px;
+}
+
+.eject {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -90px;
+}
+
+.email {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -90px;
+}
+
+.equipment {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -90px;
+}
+
+.erase {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -90px;
+}
+
+.error {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -90px;
+}
+
+.excel {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -90px;
+}
+
+.exit {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -90px;
+}
+
+.expand {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -90px;
+}
+
+.eye {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -90px;
+}
+
+.fall {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -90px;
+}
+
+.fast-forward {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -90px;
+}
+
+.favourites {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -90px;
+}
+
+.filesave {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -90px;
+}
+
+.filter {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -108px;
+}
+
+.find {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -108px;
+}
+
+.first_record {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -108px;
+}
+
+.first {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -108px;
+}
+
+.flag {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -108px;
+}
+
+.flash_drive {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -108px;
+}
+
+.folder {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -108px;
+}
+
+.forbidden {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -108px;
+}
+
+.forward {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -108px;
+}
+
+.globe {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -108px;
+}
+
+.go_back {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -108px;
+}
+
+.go_forward {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -108px;
+}
+
+.go {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -108px;
+}
+
+.good_mark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -108px;
+}
+
+.green_bookmark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -108px;
+}
+
+.green_pin {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -126px;
+}
+
+.green_tag {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -126px;
+}
+
+.hard_disk {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -126px;
+}
+
+.help_book_3d {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -126px;
+}
+
+.help_book {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -126px;
+}
+
+.help_symbol {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -126px;
+}
+
+.help {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -126px;
+}
+
+.hint {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -126px;
+}
+
+.history {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -126px;
+}
+
+.home {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -126px;
+}
+
+.hourglass {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -126px;
+}
+
+.how-to {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -126px;
+}
+
+.hungup {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -126px;
+}
+
+.info {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -126px;
+}
+
+.iphone {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -126px;
+}
+
+.key {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -144px;
+}
+
+.last_recor {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -144px;
+}
+
+.last {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -144px;
+}
+
+.left-right {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -144px;
+}
+
+.lightning {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -144px;
+}
+
+.liner {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -144px;
+}
+
+.linux {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -144px;
+}
+
+.list {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -144px;
+}
+
+.load {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -144px;
+}
+
+.lock {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -144px;
+}
+
+.low_rating {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -144px;
+}
+
+.magic_wand {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -144px;
+}
+
+.mail {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -144px;
+}
+
+.male_symbol {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -144px;
+}
+
+.male {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -144px;
+}
+
+.medium_rating {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -162px;
+}
+
+.message {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -162px;
+}
+
+.mobile-phone {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -162px;
+}
+
+.modify {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -162px;
+}
+
+.move {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -162px;
+}
+
+.new_document {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -162px;
+}
+
+.new {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -162px;
+}
+
+.next_track {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -162px;
+}
+
+.next {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -162px;
+}
+
+.no-entry {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -162px;
+}
+
+.no {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -162px;
+}
+
+.notes {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -162px;
+}
+
+.ok {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -162px;
+}
+
+.page_excel {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -162px;
+}
+
+.paste {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -162px;
+}
+
+.pause {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -180px;
+}
+
+.pdf_document {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -180px;
+}
+
+.people {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -180px;
+}
+
+.percent {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -180px;
+}
+
+.person {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -180px;
+}
+
+.phone_number {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -180px;
+}
+
+.phone {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -180px;
+}
+
+.pie_chart {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -180px;
+}
+
+.pinion {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -180px;
+}
+
+.play-music {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -180px;
+}
+
+.play {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -180px;
+}
+
+.playback {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -180px;
+}
+
+.previous_record {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -180px;
+}
+
+.previous {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -180px;
+}
+
+.print {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -180px;
+}
+
+.printer_color {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -198px;
+}
+
+.problem {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -198px;
+}
+
+.question {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -198px;
+}
+
+.raise {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -198px;
+}
+
+.record {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -198px;
+}
+
+.red_bookmark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -198px;
+}
+
+.red_mark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -198px;
+}
+
+.red_pin {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -198px;
+}
+
+.red_star {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -198px;
+}
+
+.red_tag {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -198px;
+}
+
+.redo {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -198px;
+}
+
+.refresh {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -198px;
+}
+
+.remove {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -198px;
+}
+
+.repair {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -198px;
+}
+
+.report {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -198px;
+}
+
+.rewind {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -216px;
+}
+
+.save {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -216px;
+}
+
+.schedule {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -216px;
+}
+
+.script {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -216px;
+}
+
+.search {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -216px;
+}
+
+.shield {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -216px;
+}
+
+.shopping_cart {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -216px;
+}
+
+.sound {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -216px;
+}
+
+.stop_sign {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -216px;
+}
+
+.stop {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -216px;
+}
+
+.stopwatch {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -216px;
+}
+
+.sum {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -216px;
+}
+
+.sync {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -216px;
+}
+
+.table {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -216px;
+}
+
+.target {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -216px;
+}
+
+.taxi {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -234px;
+}
+
+.terminate {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -234px;
+}
+
+.text_preview {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -234px;
+}
+
+.text {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -234px;
+}
+
+.three_d_bar_chart {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -234px;
+}
+
+.thumbs_down {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -234px;
+}
+
+.thumbs_up {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -234px;
+}
+
+.toolbox {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -234px;
+}
+
+.top {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -234px;
+}
+
+.trackback {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -234px;
+}
+
+.trash {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -234px;
+}
+
+.tune {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -234px;
+}
+
+.turn_off {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -234px;
+}
+
+.twitter {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -234px;
+}
+
+.undo {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -234px;
+}
+
+.unlock {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) 0px -252px;
+}
+
+.up-down {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -18px -252px;
+}
+
+.up {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -36px -252px;
+}
+
+.update {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -54px -252px;
+}
+
+.upload {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -72px -252px;
+}
+
+.user_group {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -90px -252px;
+}
+
+.view {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -108px -252px;
+}
+
+.wallet {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -126px -252px;
+}
+
+.warning {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -144px -252px;
+}
+
+.wrench {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -162px -252px;
+}
+
+.yellow_bookmark {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -180px -252px;
+}
+
+.yellow_pin {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -198px -252px;
+}
+
+.yellow_tag {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -216px -252px;
+}
+
+.yes {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -234px -252px;
+}
+
+.zoom {
+	width: 18px;
+	height: 18px;
+	background: url(images/sprite.png) -252px -252px;
+}
+
