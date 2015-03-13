@@ -13,10 +13,7 @@ class ManageUsers {
 	public function getUsers(){
 		
 	}
-	public function getUsers(){
-	
-	}
-	public function getUsers($userId){
+	public function getUser($userId){
 	
 	}
 	public function mapToRole($userId,$roleId){

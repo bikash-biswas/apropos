@@ -1,4 +1,5 @@
 <?php
+require_once("company.php");
 
 /**
 * Defines a user
