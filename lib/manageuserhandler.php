@@ -1,7 +1,16 @@
 <?php
 	header('Content-Type: application/json');
 	require_once("user.php");
-	require_once("manageruser.php");
+	require_once("company.php");
+	require_once("unit.php");
+	session_start();
+	
+	$key ="user";
+	$user=null;
+	
+	$user= unserialize($_SESSION[$key]);
+	
+	
 ?>
 
 <?php 

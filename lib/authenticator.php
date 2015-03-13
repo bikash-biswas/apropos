@@ -33,12 +33,25 @@ class Authenticator {
 			$user->setValid(true); 
 			$user->setUserName($userName);
 			
-			//Get the user informations
+			//Get the user informations( First name, Last name, E-mail etc.)
 			$sql = SQLQuery::USER_INFO_SQL;
 			$stmt = $conn->prepare( $sql);
 			$stmt->bind_param('s',$userName);
 			$stmt->execute();
-				
+			$result = $stmt->get_result();
+			if ($result->num_rows > 0) {
+				while($row = $result->fetch_array()) {
+					$user->setFirstName($row["FIRSTNAME"]);
+					$user->setLastName($row["LASTNAME"]);
+					$user->setUserId($row["ID"]);
+					$user->setEmail($row["EMAIL"]);
+					$user->setRoleName($row["ROLE"]);
+					$user->setCompanyId($row["CID"]);
+					$user->setCompanyName($row["COMPANY"]);
+					$user->setUnitId($row["UID"]);
+					$user->setUnitName($row["UNIT"]);
+				}
+			}
 
 			$globalOperations=array();
 			$companyOperations=array();

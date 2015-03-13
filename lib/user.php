@@ -19,6 +19,8 @@ class User {
 	private $roleName;
 	private $unitName;
 	private $userId;
+	private $companyName;
+	private $companyId;
 	
 	
 	public function getUserName() {
@@ -95,14 +97,32 @@ class User {
 	public function getRoleName() {
 		return $this->roleName;
 	}
-	public function setRoleId($roleName) {
+	public function setRoleName($roleName) {
 		$this->roleName=$roleName;
 	}
 	public function getUnitName() {
 		return $this->unitName;
 	}
-	public function setUnitId($unitName) {
+	public function setUnitName($unitName) {
 		$this->unitName=$unitName;
+	}
+	public function getUserId() {
+		return $this->userId;
+	}
+	public function setUserId($userId) {
+		$this->userId=$userId;
+	}
+	public function getCompanyName() {
+		return $this->companyName;
+	}
+	public function setCompanyName($companyName) {
+		$this->companyName=$companyName;
+	}
+	public function getCompanyId() {
+		return $this->companyId;
+	}
+	public function setCompanyId($companyId) {
+		$this->companyId=$companyId;
 	}
 	public function getCompany($companyId) {
 		$matchedCompany=NULL;
