@@ -32,6 +32,13 @@ class Authenticator {
 		if($count > 0){ //User is valid
 			$user->setValid(true); 
 			$user->setUserName($userName);
+			
+			//Get the user informations
+			$sql = SQLQuery::USER_INFO_SQL;
+			$stmt = $conn->prepare( $sql);
+			$stmt->bind_param('s',$userName);
+			$stmt->execute();
+				
 
 			$globalOperations=array();
 			$companyOperations=array();

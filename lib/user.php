@@ -15,6 +15,10 @@ class User {
 	private $lastName;
 	private $email;
 	private $roleId;
+	private $unitId;
+	private $roleName;
+	private $unitName;
+	private $userId;
 	
 	
 	public function getUserName() {
@@ -81,6 +85,24 @@ class User {
 	}
 	public function setRoleId($roleId) {
 		$this->roleId=$roleId;
+	}
+	public function getUnitId() {
+		return $this->unitId;
+	}
+	public function setUnitId($unitId) {
+		$this->unitId=$unitId;
+	}
+	public function getRoleName() {
+		return $this->roleName;
+	}
+	public function setRoleId($roleName) {
+		$this->roleName=$roleName;
+	}
+	public function getUnitName() {
+		return $this->unitName;
+	}
+	public function setUnitId($unitName) {
+		$this->unitName=$unitName;
 	}
 	public function getCompany($companyId) {
 		$matchedCompany=NULL;
